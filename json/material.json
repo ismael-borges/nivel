@@ -1,0 +1,2457 @@
+[
+    {
+        "codigo":"0001",
+        "descricao":"Tábua 3,0 x 0,25 m",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0002",
+        "descricao":"Tábua 1,87 x 0,25 m",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0003",
+        "descricao":"Tábua 1,80 x 0,25 m",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0004",
+        "descricao":"Barrote de Pinho 0,8 x 0,07 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0005",
+        "descricao":"Barrote de Pinho 0,72 x 0,07 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0006",
+        "descricao":"Barrote de Pinho 0,8 x 0,07 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0007",
+        "descricao":"Barrote de Pinho 0,62 x 0,07 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0008",
+        "descricao":"Barrote de Pinho 0,93 x irregular x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0009",
+        "descricao":"Barrote de Pinho 0,9 x irregular x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0010",
+        "descricao":"Barrote de Pinho 0,8 x 0,04 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0011",
+        "descricao":"Barrote de Pinho 0,52 x 0,04 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0012",
+        "descricao":"Barrote 0,4 x 0,08 x 0,02 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0013",
+        "descricao":"Barrote  0,4 x 0,06 x 0,06 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0014",
+        "descricao":"Tábua Triangular esp=3cm 0,2 X 0,6 X 0,63 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0015",
+        "descricao":"Granito 1 pç de 0,7 X 0,4",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0016",
+        "descricao":"Tábua (0,26 X 0,7)",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0017",
+        "descricao":"Mármore Branco 0,62 x 0,2 m",
+        "medida":"und"
+    },
+    {
+        "codigo":"0018",
+        "descricao":"Mármore Branco 0,44 x 0,18 m",
+        "medida":"und"
+    },
+    {
+        "codigo":"0019",
+        "descricao":"Mármore Branco 0,57 x 0,18 m",
+        "medida":"und"
+    },
+    {
+        "codigo":"0020",
+        "descricao":"Barrote 45 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0021",
+        "descricao":"Tábua 64 cmx 27 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0022",
+        "descricao":"Mármore 70 cmx 44cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0023",
+        "descricao":"Tábua 99 cmx 27 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0024",
+        "descricao":"Tábua 99 cmx 25 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0025",
+        "descricao":"Tábua 1m x 27 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0026",
+        "descricao":"Tábua 1 m x 25 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0027",
+        "descricao":"Tábua 1,21 cm x 27 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0028",
+        "descricao":"Tábua 1,02 cm x 26 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0029",
+        "descricao":"Tábua 98 cm x 25 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0030",
+        "descricao":"Tábua 84 cm x 22 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0031",
+        "descricao":"Tábua 49 cm x 24 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0032",
+        "descricao":"Tábua 1,23 cm x 27 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0033",
+        "descricao":"Tábua 1,19 cm x 25 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0034",
+        "descricao":"Tábua irregular com ponta ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0035",
+        "descricao":"Tábua 1,40 cm x 9 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0036",
+        "descricao":"Barrote 1,20 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0037",
+        "descricao":"Barrote 60 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0038",
+        "descricao":"Barrote 1,30 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0039",
+        "descricao":"Barrote 95 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0040",
+        "descricao":"Madeira 80cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0041",
+        "descricao":"Madeira 45 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0042",
+        "descricao":"Madeira 64 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0043",
+        "descricao":"Madeira 41 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0044",
+        "descricao":"Tábua 75 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0045",
+        "descricao":"Tábua 84 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0046",
+        "descricao":"Tábua 1 m ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0047",
+        "descricao":"Barrote 44 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0048",
+        "descricao":"Tábua 58 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0049",
+        "descricao":"Porta 2,10 x 0,67",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0050",
+        "descricao":"Tábua 76 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0051",
+        "descricao":"Rejuntamento Flexível Cinza 5kg",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0052",
+        "descricao":"Rejuntamento Flexível Bege 1kg ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0053",
+        "descricao":"Rejuntamento colorido p/ porcelanatos Bege 4kg",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0054",
+        "descricao":"Rejunte juntas de 2 a 10mm branco 1kg ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0055",
+        "descricao":"Espaçador 5mm p/ pisos e azulejos ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0056",
+        "descricao":"Espaçador 2mm p/ revestimentos cerâmicos ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0057",
+        "descricao":"Eletrodos Lincoln 46 + 2,50x350",
+        "medida":"peças"
+    },
+    {
+        "codigo":"0058",
+        "descricao":"Rejunte Colorido Flexível Cinza escuro ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0059",
+        "descricao":"Esmalte sintético camurça 3,6 l 201GL",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0060",
+        "descricao":"Selador Acrílico 3,6l 312GL",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0061",
+        "descricao":"Esmalte sintético STANDARD 3,6l Verde primavera ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0062",
+        "descricao":"Esmalte sintético madeiras e metais Branco gelo Acetinado 900ml",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0063",
+        "descricao":"Esmalte premium madeiras e metais 3,24l Acetinado Base C Verde Folha ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0064",
+        "descricao":"Espaçador de piso preto 2mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0065",
+        "descricao":"Espaçador de piso cinza 10mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0066",
+        "descricao":"Espaçador de piso Branco 2mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0067",
+        "descricao":"Espaçador de piso Azul 8mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0068",
+        "descricao":"Aguarras Iquine 5l ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0069",
+        "descricao":"Cerâmica 10 x 10 cm azul gelo",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0070",
+        "descricao":"Cerâmica PEI II 45 x 45 cm branco slim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0071",
+        "descricao":"Cerâmica PEI II 32 x 66 cm branco slim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0072",
+        "descricao":"Tinta latéx PVA 3,6 l cor branca / marca Renove",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0073",
+        "descricao":"Tinta acrílica para piso 900 ml cor branco liso/marca Shewin Williams",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0074",
+        "descricao":"Tinta para áreas internas 3,6 l cor branco / marca paredex",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0075",
+        "descricao":"Tinta para demarcação de piso 3,6 l cor amarela",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0076",
+        "descricao":"Massa para madeira cor branca 1,5 kg/ marca sayerlack",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0077",
+        "descricao":"Aditivo plastificante concentrado para argamassa / Vedacit",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0078",
+        "descricao":"Cal",
+        "medida":"Kg"
+    },
+    {
+        "codigo":"0079",
+        "descricao":"Bloco Cerâmico",
+        "medida":"und"
+    },
+    {
+        "codigo":"0080",
+        "descricao":"Argamassa estrutural 230 VEDACIT",
+        "medida":"Kg"
+    },
+    {
+        "codigo":"0081",
+        "descricao":"Reboco pronto",
+        "medida":"Kg"
+    },
+    {
+        "codigo":"0082",
+        "descricao":"Argamassa para assentamento de porcelanato da cor branca",
+        "medida":"Kg"
+    },
+    {
+        "codigo":"0083",
+        "descricao":"Rejunte especial para porcelanato da cor palha",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0084",
+        "descricao":"Argamassa de assentamento para áreas internas",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0085",
+        "descricao":"Cimento",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0086",
+        "descricao":"Argamassa estrutural",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0087",
+        "descricao":" Gravilhão",
+        "medida":"lt"
+    },
+    {
+        "codigo":"0088",
+        "descricao":"Pó branco",
+        "medida":"kg"
+    },
+    {
+        "codigo":"0089",
+        "descricao":"Riscador para rejunte",
+        "medida":"und"
+    },
+    {
+        "codigo":"0090",
+        "descricao":"Argamassa Polimerica 3,6 kg",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0091",
+        "descricao":"Pigmento corrante 50ml Laranja",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0092",
+        "descricao":"Pigmento corrante 50ml Ocre",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0093",
+        "descricao":"Pigmento corrante 50ml Preto",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0094",
+        "descricao":"Rejuntamento de 1kg",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0095",
+        "descricao":"Rejunte Colorido 1kg",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0096",
+        "descricao":"Revestimento impermeavel contra infiltração 900g",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0097",
+        "descricao":"Rejunte Massacom Colorido Tipo 1 - 1kg - cor platina ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0098",
+        "descricao":"Rejunte Massacom Colorido Tipo 1 - 1kg - cor bege",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0099",
+        "descricao":"Rejunte Flexível cerâmica 1 kg ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0100",
+        "descricao":"Piso comprido 32,4 x 66,4",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0101",
+        "descricao":"Piso porcelanato 46 x 46",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0102",
+        "descricao":"Pastilhas ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0103",
+        "descricao":"Argamassa 10 kg ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0104",
+        "descricao":"Renove massa PVA 15 kg ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0105",
+        "descricao":"Rejunte Massacom Tipo 1 - cor cinza ",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0106",
+        "descricao":"Rejuntamento Flexível Marrom Tabaco",
+        "medida":"pacote "
+    },
+    {
+        "codigo":"0107",
+        "descricao":"Curva eletroduto PVC 2.1/2 polegada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0108",
+        "descricao":"Disco de Corte 115 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0109",
+        "descricao":"Disco de Corte 115 x 4,8 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0110",
+        "descricao":"Disco de Corte 115 x 6,4 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0111",
+        "descricao":"Disco de Corte 115x 3,0 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0112",
+        "descricao":"Disco de Corte 177,8 x 3,2 x 22,2mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0113",
+        "descricao":"Disco de Corte 177,8 x 6,4 x 22,2mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0114",
+        "descricao":"Disco de Corte 178 x 6,4 x 22,2mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0115",
+        "descricao":"Disco de Corte 180 x 3,0 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0116",
+        "descricao":"Disco de Corte 180 x 6,0 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0117",
+        "descricao":"Disco de Corte 180 x 6,4 x 22,23mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0118",
+        "descricao":"Disco de Corte 300 x 3,2 x 3/4mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0119",
+        "descricao":"Disco de Corte 304,8 x 3,2 x 25,4mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0120",
+        "descricao":"Disco de Corte 364,8 x 3,2 x 25,4mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0121",
+        "descricao":"Electric  5kg",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0122",
+        "descricao":"Pregos bitola 10x9",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0123",
+        "descricao":"Porca PP (1,1 diâmetro)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0124",
+        "descricao":"Porca P",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0125",
+        "descricao":"Porca M",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0126",
+        "descricao":"Porca G",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0127",
+        "descricao":"Porca GG",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0128",
+        "descricao":"Parafuso fino (6 cm de comp.)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0129",
+        "descricao":"Prego 6,2 cm (comp.)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0130",
+        "descricao":"Arruela 2,8 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0131",
+        "descricao":"Parafuso fino ( 5 cm de comp.)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0132",
+        "descricao":"Arruela 3,0 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0133",
+        "descricao":"Conj. Parafuso + Porca ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0134",
+        "descricao":"Parafuso Grosso 1,6 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0135",
+        "descricao":"Arruela 3,2 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0136",
+        "descricao":"Arruela 4,9 cm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0137",
+        "descricao":"Parafuso grosso s/cabeça 1,8",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0138",
+        "descricao":"Parafuso grosso 1 cm (diam) + 7,6 cm (comp) ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0139",
+        "descricao":"Parafuso grosso 1 cm (diam) + 3,8 cm (comp) ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0140",
+        "descricao":"Parafuso grosso 1 cm (diam) + 5,1 (comp) ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0141",
+        "descricao":"Parafuso grosso 2 cm (diam)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0142",
+        "descricao":"Parafuso grosso GG 1,6 cm (diam) ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0143",
+        "descricao":"Parafuso c/ encaixe ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0144",
+        "descricao":"Rolo 5,5 ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0145",
+        "descricao":"Arruela curvada cinza ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0146",
+        "descricao":"Arruela curvada preta",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0147",
+        "descricao":"Quadrado de metal 7,2 x 7,2 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0148",
+        "descricao":"Telha de amianto 0,5 x 0,7 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0149",
+        "descricao":"Disco de corte 4,5",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0150",
+        "descricao":"Disco de corte 7,0",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0151",
+        "descricao":"Disco de corte 12",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0152",
+        "descricao":"Manta Asfáltica Betumat - 0,9X1,06",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0153",
+        "descricao":"Bucha de palha de aço nº 2  ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0154",
+        "descricao":"Cabinho Flexível 750 kv Amarelo",
+        "medida":"ml"
+    },
+    {
+        "codigo":"0155",
+        "descricao":"Cabinho Flexível 750 kv Vermelho",
+        "medida":"ml"
+    },
+    {
+        "codigo":"0156",
+        "descricao":"Aste achatada de ferro 40 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0157",
+        "descricao":"Aste achatada de ferro 15 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0158",
+        "descricao":"Tubo de ferro dn = 5 cm 1m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0159",
+        "descricao":"Tubo de ferro dn = 5 cm 0,4m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0160",
+        "descricao":"Trilho de ferro de 0,4 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0161",
+        "descricao":"Trilho de ferro de 0,3 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0162",
+        "descricao":"Emenda para solda placa de 0,09 x 0,09 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0163",
+        "descricao":"Cabinho flexível 750v  verde",
+        "medida":"m"
+    },
+    {
+        "codigo":"0164",
+        "descricao":"Cabinho flexível 750v  azul",
+        "medida":"m"
+    },
+    {
+        "codigo":"0165",
+        "descricao":"Ferro curvado",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0166",
+        "descricao":"Placas de isopor 100 x 50 x 3 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0167",
+        "descricao":"Porca 3/4 para fixador de telha",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0168",
+        "descricao":"Arruela curva aço (para fixador de telha)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0169",
+        "descricao":"Arruela curva borracha (para fixador de telha)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0170",
+        "descricao":"Nipel",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0171",
+        "descricao":"Plug de rosca",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0172",
+        "descricao":"Parafuso  10 cm, cabeça chata, ponta soberba c/ bucha",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0173",
+        "descricao":"Espelho cx. 4x2 linha veltra (quadrado)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0174",
+        "descricao":"Espelho cx. 4x2 linha pial (quadrado)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0175",
+        "descricao":"Espelho cx. 4x2 linha pial (redondo)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0176",
+        "descricao":"Bastão de solda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0177",
+        "descricao":"Fixador para telhado",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0178",
+        "descricao":"Lacre plástico",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0179",
+        "descricao":"Disco de desbaste 4,5cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0180",
+        "descricao":"Disco de desbaste 7cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0181",
+        "descricao":"Disco de corte 4,5cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0182",
+        "descricao":"Disco de corte 12cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0183",
+        "descricao":"Disco de flap 4,5cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0184",
+        "descricao":"Nivel de Aluminio GP Magnetico ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0185",
+        "descricao":"Porta grelha quadrado",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0186",
+        "descricao":"Prego com cabeça (Bitola 18 x 27)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0187",
+        "descricao":"Prego com cabeça 15 X 18",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0188",
+        "descricao":"Prego de ferro do fixa fio",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0189",
+        "descricao":"Prego e Parafuso Telheiros (Ardox Galvonizado 18 x 30)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0190",
+        "descricao":"Prumo de centro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0191",
+        "descricao":"Capacete branco",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0192",
+        "descricao":"Capacete verde",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0193",
+        "descricao":"Capacete vermelho",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0194",
+        "descricao":"Chave de virar ferro 3/16",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0195",
+        "descricao":"Escova Industrial Grande",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0196",
+        "descricao":"Escova Industrial pequena",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0197",
+        "descricao":"Licha pirulito p/ metal",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0198",
+        "descricao":"Pé de cabra 50",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0199",
+        "descricao":"Ponteiro redondo 10",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0200",
+        "descricao":"Ponteiro redondo 12",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0201",
+        "descricao":"Ponteiro redondo 8",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0202",
+        "descricao":"Serralheiro 5kg",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0203",
+        "descricao":"Talhadeira redonda 10",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0204",
+        "descricao":"Talhadeira redonda 12",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0205",
+        "descricao":"Talhadeira redonda 8",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0206",
+        "descricao":"Torquês armador 10",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0207",
+        "descricao":"Torquês armador 12",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0208",
+        "descricao":"Torquês azulejo 6",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0209",
+        "descricao":"Visor escuro p/ máscara serralheiro",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0210",
+        "descricao":"Visor transparente p/ márcara de serralheiro",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0211",
+        "descricao":"Pá",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0212",
+        "descricao":"Picareta ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0213",
+        "descricao":"Machado",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0214",
+        "descricao":"Cavador reto ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0215",
+        "descricao":"Policorte ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0216",
+        "descricao":"Avental de raspa ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0217",
+        "descricao":"Vassoura ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0218",
+        "descricao":"Espátula",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0219",
+        "descricao":"Máscara de solda ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0220",
+        "descricao":"Protetor auditivo grande ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0221",
+        "descricao":"Pé de cabra Plus ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0222",
+        "descricao":"Luvas de Raspa ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0223",
+        "descricao":"Escada ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0224",
+        "descricao":"Nylon branca 7,03 m",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0225",
+        "descricao":"Cabo",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0226",
+        "descricao":"Cavador ponta curvada ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0227",
+        "descricao":"Peneira ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0228",
+        "descricao":"Escalímetro de metal",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0229",
+        "descricao":"Trema ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0230",
+        "descricao":"Chave de boca 13",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0231",
+        "descricao":"Chave de boca 9x16",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0232",
+        "descricao":"Chave de boca 1B 3/4",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0233",
+        "descricao":"Chave de boca nº 24",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0234",
+        "descricao":"Chave de boca 1  5/16",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0235",
+        "descricao":"Chave de boca 1,5",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0236",
+        "descricao":"Chave de roda ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0237",
+        "descricao":"Martelo",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0238",
+        "descricao":"Torquette 12''",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0239",
+        "descricao":"Talhadeira 10'' ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0240",
+        "descricao":"Marreta ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0241",
+        "descricao":"Cinta elevatória laranja ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0242",
+        "descricao":"Serra 30cm",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0243",
+        "descricao":"Trinchão ",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0244",
+        "descricao":"Escova p/lavar piso",
+        "medida":"peça"
+    },
+    {
+        "codigo":"0245",
+        "descricao":"Corda Cinza (id. Laranja)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0246",
+        "descricao":"Corda Cinza (id. preta)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0247",
+        "descricao":"Corda Cinza (id. amarela)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0248",
+        "descricao":"Corda Cinza (id. Laranja e Preta)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0249",
+        "descricao":"Corda Cinza (id. Preta e Amarelo)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0250",
+        "descricao":"Corda Cinza (id. Rosa)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0251",
+        "descricao":"Corda Fina Marrom",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0252",
+        "descricao":"Corda Verde",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0253",
+        "descricao":"Corda Trançada Vermelha",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0254",
+        "descricao":"Mangueira de Nível",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0255",
+        "descricao":"Mangueira Corrugada Cinza diam. 32 mm",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0256",
+        "descricao":"Mangueira Corrugada Amarela diam. 32 mm",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0257",
+        "descricao":"Mangueira Corrugada Amarela diam. 25 mm",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0258",
+        "descricao":"Corda Cinza ( em baixo da prateleira)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0259",
+        "descricao":"Corda Cinza (Próximo as latas de tinta)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0260",
+        "descricao":"Corda cinza (próximo às mangueiras)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0261",
+        "descricao":"Corda Fina (próximo ao pé de cabra)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0262",
+        "descricao":"Corda Fina (próximo aos parafusos)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0263",
+        "descricao":"Mangueira 1 ",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0264",
+        "descricao":"Mangueira 2",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0265",
+        "descricao":"Mangueira 3",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0266",
+        "descricao":"Mangueira 4",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0267",
+        "descricao":"Mangueira 5",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0268",
+        "descricao":"Mangueira 6 (mais escura)",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0269",
+        "descricao":"Mangueira 7",
+        "medida":"Ml"
+    },
+    {
+        "codigo":"0270",
+        "descricao":"Mangueira 3/4",
+        "medida":"Rl"
+    },
+    {
+        "codigo":"0271",
+        "descricao":"Tela fachadeira (33 x 3 m)",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0272",
+        "descricao":"Lixa 100",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0273",
+        "descricao":"Balde",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0274",
+        "descricao":"Argamassadeira",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0275",
+        "descricao":"Arame galvanizado",
+        "medida":"KG"
+    },
+    {
+        "codigo":"0276",
+        "descricao":"Arame verde",
+        "medida":"KG "
+    },
+    {
+        "codigo":"0277",
+        "descricao":"Lona preta",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0278",
+        "descricao":"Folha de tapume 1,2x0,7 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0279",
+        "descricao":"Folha de tapume 0,6x0,45 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0280",
+        "descricao":"Folha de tapume 1,0x0,46 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0281",
+        "descricao":"Folha de tapume 2,2x1,22 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0282",
+        "descricao":"Cinto de segurança para fachada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0283",
+        "descricao":"Base para andaime 1,16 x 1,10 m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0284",
+        "descricao":"Vassoura piaçava",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0285",
+        "descricao":"Cabo de vassoura piaçava",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0286",
+        "descricao":"Espátula plástica",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0287",
+        "descricao":"Lixa d'água",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0288",
+        "descricao":"Òculos EPI",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0289",
+        "descricao":"Chave para disco de lixadeira",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0290",
+        "descricao":"Luva 100 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0291",
+        "descricao":"Trinchão",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0292",
+        "descricao":"Rolo pequeno de espuma",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0293",
+        "descricao":"Rolo grande de espuma",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0294",
+        "descricao":"Pincéis",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0295",
+        "descricao":"Arco de serra cromado",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0296",
+        "descricao":"Carro de mão",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0297",
+        "descricao":"Blusa de farda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0298",
+        "descricao":"Calça de farda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0299",
+        "descricao":"Cabo para enxada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0300",
+        "descricao":"Enxada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0301",
+        "descricao":"Extensão com ponta cega e tomada fêmea",
+        "medida":"ml"
+    },
+    {
+        "codigo":"0302",
+        "descricao":"Cadeirinha para fachada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0303",
+        "descricao":"Balde preto",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0304",
+        "descricao":"Balde 18 litros",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0305",
+        "descricao":"Bacia diam. Interno 30 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0306",
+        "descricao":"Machadinha",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0307",
+        "descricao":"Arco para serra",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0308",
+        "descricao":"Bota nº 39",
+        "medida":"par"
+    },
+    {
+        "codigo":"0309",
+        "descricao":"Avental de armador",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0310",
+        "descricao":"Chapa de ferro para solda",
+        "medida":"m2"
+    },
+    {
+        "codigo":"0311",
+        "descricao":"Martelete broca 7/16",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0312",
+        "descricao":"Máquina para solda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0313",
+        "descricao":"Furadeira de bancada",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0314",
+        "descricao":"Escova manual de aço",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0315",
+        "descricao":"Nylon (linha de pedreiro)",
+        "medida":"m"
+    },
+    {
+        "codigo":"0316",
+        "descricao":"Talhadeira achatada de 10 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0317",
+        "descricao":"Estabilizador antigo",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0318",
+        "descricao":"Chave de boca nº 22",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0319",
+        "descricao":"Martelo de soldador",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0320",
+        "descricao":"Alicate para chapa de ferro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0321",
+        "descricao":"Sargento 5",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0322",
+        "descricao":"Grelha redonda para ralo de 150 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0323",
+        "descricao":"Esguincho para mangueira com conector e ememda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0324",
+        "descricao":"Visor transparente para máscara",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0325",
+        "descricao":"Protetor de lixadeira 4,5 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0326",
+        "descricao":"Protetor de lixadeira 7,0 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0327",
+        "descricao":"Suporte de mão para lixadeira",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0328",
+        "descricao":"Suporte de mão para makita",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0329",
+        "descricao":"Chave para makita",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0330",
+        "descricao":"Luva 25mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0331",
+        "descricao":"Luva 20 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0332",
+        "descricao":"Luva red. 20 X 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0333",
+        "descricao":"Torquês armador pequeno",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0334",
+        "descricao":"Lixadeira pequena  220v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0335",
+        "descricao":"Lixadeira grande 220v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0336",
+        "descricao":"Prumo",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0337",
+        "descricao":"Óculos EPI acrílico",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0338",
+        "descricao":"Acessórios para maçarico",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0339",
+        "descricao":"Lixa para ferro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0340",
+        "descricao":"Lixa para ferro 80",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0341",
+        "descricao":"Lixa para ferro 100",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0342",
+        "descricao":"Lixa para ferro Pirulito",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0343",
+        "descricao":"Escova rotativa 7 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0344",
+        "descricao":"Escova rotativa 4,5 cm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0345",
+        "descricao":"Alicate de pop",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0346",
+        "descricao":"Talhadeira redonda 18",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0347",
+        "descricao":"Alicate",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0348",
+        "descricao":"Balde Branco",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0349",
+        "descricao":"Chave Allen Bitola 5MM",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0350",
+        "descricao":"Chave de Fenda",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0351",
+        "descricao":"Colher de pedreiro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0352",
+        "descricao":"Espatula",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0353",
+        "descricao":"Fita Crepe 24MM x 50M",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0354",
+        "descricao":"Fixa fio 14/16",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0355",
+        "descricao":"Lixa D'água P100 231Q",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0356",
+        "descricao":"Luva de correr SOLD 20MM",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0357",
+        "descricao":"Machadinha para jardinagem",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0358",
+        "descricao":"Martelo",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0359",
+        "descricao":"Serra Copo 51MM",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0360",
+        "descricao":"Trena em fibra de vidro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0361",
+        "descricao":"Linha de pedreiro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0362",
+        "descricao":"Magueira 10,75 m - Tipo transparente fina ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0363",
+        "descricao":"Nylon 5,80",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0364",
+        "descricao":"Máquina de solda ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0365",
+        "descricao":"Adaptador com Flange 20mm x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0366",
+        "descricao":"Adaptador N2 Pia 40 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0367",
+        "descricao":"Adaptador Sold. 20 x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0368",
+        "descricao":"Adaptador Sold. 25 x 3/4",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0369",
+        "descricao":"Bucha Red. Plast. Sold CFA  25 x 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0370",
+        "descricao":"Bucha Red. Sold.  32 x 25mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0371",
+        "descricao":"Bucha Red. Sold. LGA 32 x 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0372",
+        "descricao":"Cap 20mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0373",
+        "descricao":"Cap 25mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0374",
+        "descricao":"Cap 50 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0375",
+        "descricao":"Curva curta 100m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0376",
+        "descricao":"Fita veda rosca 18mm x 25m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0377",
+        "descricao":"Grelha 150mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0378",
+        "descricao":"Grelha quadrada p/ cx. sifonada e ralo10",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0379",
+        "descricao":"Interruptor com 3 teclas - Venice",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0380",
+        "descricao":"Interruptor com 3 teclas -Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0381",
+        "descricao":"Interruptor duplo - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0382",
+        "descricao":"Interruptor duplo com tomada padrão 10A - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0383",
+        "descricao":"Interruptor simples - berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0384",
+        "descricao":"Interruptor simples - venice",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0385",
+        "descricao":"Interruptor simples com tomada - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0386",
+        "descricao":"Joelho 45 eng sn dn100",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0387",
+        "descricao":"Joelho 45 esg sn dn 75",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0388",
+        "descricao":"Joelho 45 esg sn dn40",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0389",
+        "descricao":"Joelho 45º  Sold. 20mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0390",
+        "descricao":"Joelho 45º  Sold. 25mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0391",
+        "descricao":"Joelho 90 eng sn dn50",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0392",
+        "descricao":"Joelho 90 esg sn dn40",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0393",
+        "descricao":"Joelho 90° Sold. 32mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0394",
+        "descricao":"Joelho 90° Sold. Bucha Lt. 25mm x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0395",
+        "descricao":"Joelho 90° Sold. Bucha Lt. 25mm x 3/4",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0396",
+        "descricao":"Joelho 90º  Sold. 20mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0397",
+        "descricao":"Joelho 90º  Sold. 25mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0398",
+        "descricao":"Joelho 90º Rosc. Sold. 25mm x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0399",
+        "descricao":"Joelho 90º Rosc. Sold. 25mm x 3/4",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0400",
+        "descricao":"Junção DN 40mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0401",
+        "descricao":"Luva de correr Tub. Sold. 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0402",
+        "descricao":"Luva de correr Tub. Sold. 25mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0403",
+        "descricao":"Luva Red. Sold. 25mm x 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0404",
+        "descricao":"Luva Red. Sold. 32 x 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0405",
+        "descricao":"Luva simples 75 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0406",
+        "descricao":"Luva Sold. Eletroduto 32mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0407",
+        "descricao":"Luva Sold. Rosc. 25mm x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0408",
+        "descricao":"Ralo Sifonado Red. BR N02 100X38",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0409",
+        "descricao":"Redução exc. 100 X 50 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0410",
+        "descricao":"Redução exc. 100 X 75 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0411",
+        "descricao":"Redução exc. 75 X 50 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0412",
+        "descricao":"Tê  Sold. 25mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0413",
+        "descricao":"Tê  Sold. 32mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0414",
+        "descricao":"Tê Red. Sold. 32 x 25mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0415",
+        "descricao":"Tê Sold.  Lt. 20 x 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0416",
+        "descricao":"Tomada dupla padrão 10A - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0417",
+        "descricao":"Tomada dupla padrão 10A - venice",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0418",
+        "descricao":"Tomada padrão 10A - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0419",
+        "descricao":"Tomada simples padrão 20A - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0420",
+        "descricao":"Tomada telefone modular - Berlim",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0421",
+        "descricao":"Tomada telefone modular - Venice",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0422",
+        "descricao":"União Sold. 20mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0423",
+        "descricao":"União Sold. 25mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0424",
+        "descricao":"Adesivo PVC 17g",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0425",
+        "descricao":"Adesivo Plástico 75g ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0426",
+        "descricao":"Fita isolante 19mmx20m",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0427",
+        "descricao":"Joelho de 90º 88mm p/ calha ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0428",
+        "descricao":"Bocal Aquapluv 12x88mm ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0429",
+        "descricao":"Condutor 88mm p/ calha ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0430",
+        "descricao":"Luminária de emergência ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0431",
+        "descricao":"Tomada padrão 10A - Cinza",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0432",
+        "descricao":"Ralo SIF nº 37 RED ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0433",
+        "descricao":"Tomada 2P+T 1 CA/250V c/PL STANDARD",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0434",
+        "descricao":"Caixa elétrica 4x2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0435",
+        "descricao":"Combuxo",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0436",
+        "descricao":"Adesivo Plástico - Tubos e conexões de PVC 75g",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0437",
+        "descricao":"Plug Fêmea + Macho",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0438",
+        "descricao":"Tomada Branca",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0439",
+        "descricao":"Tomada avulsa branca",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0440",
+        "descricao":"Caixa com tomada para ponto lógico",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0441",
+        "descricao":"Interruptor Simples 10A/250v -linha apoio",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0442",
+        "descricao":"Bombonona de água 50 litros",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0443",
+        "descricao":"Bombonona de água 30 litros",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0444",
+        "descricao":"Bombonona de água 5 litros",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0445",
+        "descricao":"Borracha de vedação aquapluv tigre",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0446",
+        "descricao":"Neutralizador de Ferrugem/ Vedacit",
+        "medida":"l"
+    },
+    {
+        "codigo":"0447",
+        "descricao":"Bocal para calha 125 mm aquapluv",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0448",
+        "descricao":"Anel de cera para vedação de bacia sanitária / Maxanel",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0449",
+        "descricao":"Tubo pvc água fria 20 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0450",
+        "descricao":"Tubo pvc água fria 40 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0451",
+        "descricao":"Galão de água de 5 litros",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0452",
+        "descricao":"Desempoladeira plástica",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0453",
+        "descricao":"Desempoladeira metálica",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0454",
+        "descricao":"Extensão azul com plug macho e fêmea",
+        "medida":"m"
+    },
+    {
+        "codigo":"0455",
+        "descricao":"Extensão com fio flexível branco c/ bocal",
+        "medida":"m"
+    },
+    {
+        "codigo":"0456",
+        "descricao":"Fio Flexível Preto",
+        "medida":"m"
+    },
+    {
+        "codigo":"0457",
+        "descricao":"Tubo PVC de água fria 20 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0458",
+        "descricao":"Tubo PVC de água fria 25 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0459",
+        "descricao":"Eletroduto PVC soldável anti-chama 25 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0460",
+        "descricao":"Quadro elétrico 40 X 33 cm (sem acessórios)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0461",
+        "descricao":"Eletroduto PVC  rosqueavél anti-chama 40 mm",
+        "medida":"m"
+    },
+    {
+        "codigo":"0462",
+        "descricao":"Quadro elétrico 50 X 34 cm (com acessórios)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0463",
+        "descricao":"Plug  Macho 3P+T   32A 200/250v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0464",
+        "descricao":"Plug Fêmea 3P+T 32A 200/250v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0465",
+        "descricao":"Plug Macho 2P+T 225v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0466",
+        "descricao":"Tomada 2P+T 10A/250v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0467",
+        "descricao":"Cap água fria 20 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0468",
+        "descricao":"Tê 1/2 rosqueável",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0469",
+        "descricao":"Fita isolante",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0470",
+        "descricao":"União 32 x 1",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0471",
+        "descricao":"Joelho 90º 32mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0472",
+        "descricao":"Joelho 90º 20mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0473",
+        "descricao":"Plug Macho 2P+T  10A/ 250v",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0474",
+        "descricao":"Extensão trifásica s/ conector",
+        "medida":"m"
+    },
+    {
+        "codigo":"0475",
+        "descricao":"Extensão trifásica c/ conector",
+        "medida":"m"
+    },
+    {
+        "codigo":"0476",
+        "descricao":"Cap 25 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0477",
+        "descricao":"Cap 100 mm",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0478",
+        "descricao":"Acabamento para registro",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0479",
+        "descricao":"Bocal AQUAPUV Bege 125 X 88",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0480",
+        "descricao":"Broca de VIDAI 14",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0481",
+        "descricao":"Disjuntor Termomagnético C16A 1P",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0482",
+        "descricao":"Disjuntor Termomagnético C20A 1P",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0483",
+        "descricao":"Disjuntor Termomagnético C40",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0484",
+        "descricao":"Disjuntor Termomagnético C70A 3P",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0485",
+        "descricao":"Luminaria de Emergência (Autivolt 90 - 240V)",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0486",
+        "descricao":"Registro com diametro de 15 1 1/2",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0487",
+        "descricao":"Registro com diametro de 20 3/4 ",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0488",
+        "descricao":"Registro com diametro de 20 3/4 Com Acoplamento",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0489",
+        "descricao":"Registro esferico diametro de 20 3/4",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0490",
+        "descricao":"Valvula branca HYDRA",
+        "medida":"unidade"
+    },
+    {
+        "codigo":"0491",
+        "descricao":"Braçadeira 13/19",
+        "medida":"unidade"
+    }
+]
